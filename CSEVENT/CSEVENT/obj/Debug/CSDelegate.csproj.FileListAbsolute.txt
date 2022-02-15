@@ -1,0 +1,7 @@
+G:\Thuctap\CSEVENT\CSEVENT\bin\Debug\CSEVENT.exe.config
+G:\Thuctap\CSEVENT\CSEVENT\bin\Debug\CSEVENT.exe
+G:\Thuctap\CSEVENT\CSEVENT\bin\Debug\CSEVENT.pdb
+G:\Thuctap\CSEVENT\CSEVENT\obj\Debug\CSDelegate.csprojAssemblyReference.cache
+G:\Thuctap\CSEVENT\CSEVENT\obj\Debug\CSDelegate.csproj.CoreCompileInputs.cache
+G:\Thuctap\CSEVENT\CSEVENT\obj\Debug\CSEVENT.exe
+G:\Thuctap\CSEVENT\CSEVENT\obj\Debug\CSEVENT.pdb
