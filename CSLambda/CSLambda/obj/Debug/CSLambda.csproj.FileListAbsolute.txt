@@ -1,0 +1,7 @@
+G:\Thuctap\CSLambda\CSLambda\bin\Debug\CSLambda.exe.config
+G:\Thuctap\CSLambda\CSLambda\bin\Debug\CSLambda.exe
+G:\Thuctap\CSLambda\CSLambda\bin\Debug\CSLambda.pdb
+G:\Thuctap\CSLambda\CSLambda\obj\Debug\CSLambda.csprojAssemblyReference.cache
+G:\Thuctap\CSLambda\CSLambda\obj\Debug\CSLambda.csproj.CoreCompileInputs.cache
+G:\Thuctap\CSLambda\CSLambda\obj\Debug\CSLambda.exe
+G:\Thuctap\CSLambda\CSLambda\obj\Debug\CSLambda.pdb
