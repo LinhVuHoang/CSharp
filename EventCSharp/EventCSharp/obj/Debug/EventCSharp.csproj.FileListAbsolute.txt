@@ -1,0 +1,7 @@
+G:\Thuctap\EventCSharp\EventCSharp\obj\Debug\EventCSharp.csprojAssemblyReference.cache
+G:\Thuctap\EventCSharp\EventCSharp\obj\Debug\EventCSharp.csproj.CoreCompileInputs.cache
+G:\Thuctap\EventCSharp\EventCSharp\bin\Debug\EventCSharp.exe.config
+G:\Thuctap\EventCSharp\EventCSharp\bin\Debug\EventCSharp.exe
+G:\Thuctap\EventCSharp\EventCSharp\bin\Debug\EventCSharp.pdb
+G:\Thuctap\EventCSharp\EventCSharp\obj\Debug\EventCSharp.exe
+G:\Thuctap\EventCSharp\EventCSharp\obj\Debug\EventCSharp.pdb
